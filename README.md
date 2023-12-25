@@ -4,7 +4,9 @@ Welcome to the repository for the updated version of the Happi model. The Happi 
 
 **About the Model**
 
-The Happi model serves as a powerful tool for analyzing and understanding the dynamics of power systems during their transition to low-carbon alternatives. It employs advanced agent-based modeling techniques to simulate investors' investment decisions, as well as various uncertian scenarios and outcomes.
+The Happi model serves as a powerful tool for analyzing and understanding the dynamics of power systems during their transition to low-carbon alternatives. It employs advanced agent-based modeling techniques to simulate investors' investment decisions, as well as various uncertian scenarios and outcomes. 
+
+The main update in this version of Happi is the incorporation of adaptive behavior in agents. Agents in the model now make decisions adaptively, responding to changing market conditions and their past investment outcomes. This enhancement  improves the model's capabilities. 
 
 [More details about the model and its features will be coming soon to GitHub.]
 
