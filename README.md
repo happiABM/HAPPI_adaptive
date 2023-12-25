@@ -8,7 +8,7 @@ The Happi model is a computational modeling tool for analyzing and understanding
 
 The main update in this version of Happi is the incorporation of adaptive behavior in agents. Agents in the model now make decisions adaptively, responding to changing market conditions and their past investment outcomes.
 
-[A detailed description of each Python file and their functionalities will be coming soon to this site.]
+[A detailed description of each Python file and their functionalities will be coming soon to this site. In the meantime, if you have any questions or need further information, please feel free to reach out to the author at jinxi@chalmers.se]
 
 
 **Research and Implications**
