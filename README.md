@@ -1,14 +1,14 @@
 # HAPPI - Adaptive
-Welcome to the repository for the updated version of the Happi model. The Happi model is an agent-based model specifically designed to explore the low-carbon transition of the power system, developed using Python.
+Welcome to the repository for the updated version of the Happi model. The Happi model is an agent-based model specifically designed to explore the low-carbon transition of the power system, developed using Python (and Mathmatica).
 
 
 **About the Model**
 
-The Happi model serves as a powerful tool for analyzing and understanding the dynamics of power systems during their transition to low-carbon alternatives. It employs advanced agent-based modeling techniques to simulate investors' investment decisions, as well as various uncertian scenarios and outcomes. 
+The Happi model is a computational modeling tool for analyzing and understanding the dynamics of the power systems during their low-carbon transition. It employs agent-based modeling techniques to simulate investors' investment decisions in new power plants. 
 
-The main update in this version of Happi is the incorporation of adaptive behavior in agents. Agents in the model now make decisions adaptively, responding to changing market conditions and their past investment outcomes. This enhancement  improves the model's capabilities. 
+The main update in this version of Happi is the incorporation of adaptive behavior in agents. Agents in the model now make decisions adaptively, responding to changing market conditions and their past investment outcomes.
 
-[More details about the model and its features will be coming soon to GitHub.]
+[A detailed description of each Python file and their functionalities will be coming soon to this site.]
 
 
 **Research and Implications**
